@@ -1,0 +1,27 @@
+.alinhamento{
+    text-align: center;
+}
+
+body{
+    background-color: pink;
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    color: rgb(87, 20, 107);
+    font-size: 12pt;
+    font-family: Arial;
+    text-align: center;
+}
+
+a{
+    color: rgb(92, 49, 128);
+    font-size: 20pt;
+}
+
+.salao{
+    width: 450px;
+}
+
+P{
+    font-family:'Franklin Gothic Medium';
+    font-size: 17pt;
+}
